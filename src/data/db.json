@@ -1,0 +1,22 @@
+{
+    "books" : [
+        {
+            "id" : 1,
+            "title" : "Solo Leveling",
+            "Details" : "Best Manhwa..",
+            "categories" : ["anime","manhwa","series"]
+        },
+        {
+            "id" : 2,
+            "title" : "One Piece",
+            "Details" : "Best Anime..",
+            "categories" : ["anime","manhwa","series"]
+        },
+        {
+            "id" : 3,
+            "title" : "Dragon BallZ",
+            "Details" : "legendary Anime..",
+            "categories" : ["anime","manhwa","series"]
+        }
+    ]
+}
